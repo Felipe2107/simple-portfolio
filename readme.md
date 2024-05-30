@@ -15,5 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O simple portfólio é uma breve apresentação sobre mim.
 
-- [Acesse o projeto finalizado, online](https://felipe2107.github.io/devlinks/)
+- [Acesse o projeto finalizado, online](https://felipe2107.github.io/simple-portfolio/)
 
